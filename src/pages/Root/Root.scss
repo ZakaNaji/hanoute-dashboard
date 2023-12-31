@@ -1,0 +1,11 @@
+.root {
+  display: flex;
+
+  .container {
+    flex: 6;
+
+    .main {
+      padding: 20px;
+    }
+  }
+}
